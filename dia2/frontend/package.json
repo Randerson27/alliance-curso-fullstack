@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend da loja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Randerson (randerson.ghoul@gmail.com)",
+  "license": "ISC"
+}
